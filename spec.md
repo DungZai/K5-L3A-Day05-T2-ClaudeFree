@@ -4,7 +4,7 @@
 
 | Họ và Tên          | Mã Học Viên | Việc phụ trách (cập nhật thành việc đã làm sau khi hoàn tất)                                                                     |
 | ------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Nguyễn Triều Dương |             | §1; kịch bản §2 #1–3; phân tích và chốt mức cho `tra_cuu_tai_lieu`, `goi_y_bai_tap`; rà tiêu chí Pass/Fail §6.                   |
+| Nguyễn Triều Dương | 2A202603524 | §1; kịch bản §2 #1–3; phân tích và chốt mức cho `tra_cuu_tai_lieu`, `goi_y_bai_tap`; rà tiêu chí Pass/Fail §6.                   |
 | Phạm Tuấn Anh      | 2A202603503 | Kịch bản §2 #4–6; ca tài liệu sai §3 (kịch bản 7); phân tích mức cho `chuyen_TA`, `dang_FAQ`; rà căn cứ và câu chữ.              |
 | Kiều Văn Thắng     | 2A202603424 | Kịch bản §2 #7–10; ca bài tập đang mở §3 (kịch bản 1); tổng hợp cost-of-error, tool khó xếp và thử 3 ca §4.                      |
 | Hồ Văn Dũng        | 2A202603458 | Dựng và hoàn thiện prototype §5; đánh số chú thích HAX/PAIR, tạo ảnh prototype; chuẩn bị luồng demo §7 và tích hợp rà soát cuối. |
